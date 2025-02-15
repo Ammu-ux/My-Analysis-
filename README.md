@@ -1,2 +1,3 @@
 This is a mini Python project
-Gussing the number game
+
+Guessing the number game
